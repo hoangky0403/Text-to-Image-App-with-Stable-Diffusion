@@ -1,0 +1,7 @@
+customtkinter
+torch
+diffusers
+transformers
+accelerate
+pillow
+huggingface-hub

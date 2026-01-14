@@ -108,4 +108,5 @@ If you are running this on a laptop without a generic GPU (Nvidia):
 ## Credits & References
 This project was inspired by and built following the tutorial by Nick.
 
-Original Tutorial: Build Your Own Text to Image App with Stable Diffusion
+Original Tutorial: Build Your Own Text to Image App with Stable Diffusion https://www.youtube.com/watch?v=7xc0Fs3fpCg
+

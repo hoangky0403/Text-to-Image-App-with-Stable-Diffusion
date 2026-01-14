@@ -104,3 +104,8 @@ If you are running this on a laptop without a generic GPU (Nvidia):
 * `authtoken.py`: Stores your API key.
 * `requirements.txt`: List of python packages.
 * `generated_image.png`: Output file where the generated image is saved.
+
+## Credits & References
+This project was inspired by and built following the tutorial by Nick.
+
+Original Tutorial: Build Your Own Text to Image App with Stable Diffusion
